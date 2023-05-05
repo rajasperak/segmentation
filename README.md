@@ -11,4 +11,12 @@
 
 Classification avec les données suivantes:
 
-![data](/home/ric/Images/head_data.png)
+![data](https://github.com/rajasperak/segmentation/blob/main/head_data.png)
+
+Le choix du modele de classif est la suivante:
+
+![data](https://github.com/rajasperak/segmentation/blob/main/choosen_model_segm.png)
+
+avec les résultats suivants:
+
+![data](https://github.com/rajasperak/segmentation/blob/main/segmentation_result.png)
