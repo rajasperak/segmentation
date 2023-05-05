@@ -8,3 +8,7 @@
 **multiclass_classification** **ML**: 
 
 --------------------------------------
+
+Classification avec les données suivantes:
+
+![data](/home/ric/Images/head_data.png)
